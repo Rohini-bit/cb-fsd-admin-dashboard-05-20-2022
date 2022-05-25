@@ -1,0 +1,7 @@
+#bg{
+  background-color: rgb(97, 138, 138);
+}
+.form-group .input-group .input [type="text"] focus{
+border: none !important;
+outline: none !important;
+}
